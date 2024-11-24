@@ -1,0 +1,4 @@
+
+cat
+ls -l
+find
